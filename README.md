@@ -1,1 +1,1 @@
-# ChatGPT-Jailbreak-Prompts
+# ChatGPT Jailbreak Prompts
